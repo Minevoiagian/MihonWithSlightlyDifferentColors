@@ -7,7 +7,8 @@
 # Mihon [App](#)
 
 ### Full-featured reader
-Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.\n
+Discover and read manga, webtoons, comics, and more – easier than ever on your Android device.
+
 I don't know why you would ever want to use this. The only difference here vs main Mihon is changing out the colors so that the lavendar matches what it was on tachiyomi. Mihon's lavender swapped the unread and downloaded colors and i really didn't like that after so many years of seeing it how i am used to seeing it 
 
 [![Discord server](https://img.shields.io/discord/1195734228319617024.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/mihon)
