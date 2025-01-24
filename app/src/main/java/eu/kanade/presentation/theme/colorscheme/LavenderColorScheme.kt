@@ -15,21 +15,21 @@ import androidx.compose.ui.graphics.Color
  * Neutral #111129
  */
 internal object LavenderColorScheme : BaseColorScheme() {
-
+    //Colors here are pulled from the deleted dark mode from https://github.com/mihonapp/mihon/pull/766/commits/c57088d4f99a594bada32496a9ef009cb5bada0c
     override val darkScheme = darkColorScheme(
-        primary = Color(0xFFA177FF),
+        primary = Color(0xFF111129),
         onPrimary = Color(0xFF3D0090),
         primaryContainer = Color(0xFFA177FF),
-        onPrimaryContainer = Color(0xFFFFFFFF),
-        secondary = Color(0xFFA177FF), // Unread badge
-        onSecondary = Color(0xFFFFFFFF), // Unread badge text
-        secondaryContainer = Color(0xFF423271), // Navigation bar selector pill & progress indicator (remaining)
-        onSecondaryContainer = Color(0xFFA177FF), // Navigation bar selected icon
-        tertiary = Color(0xFFCDBDFF), // Downloaded badge
-        onTertiary = Color(0xFF360096), // Downloaded badge text
-        tertiaryContainer = Color(0xFF5512D8),
-        onTertiaryContainer = Color(0xFFEFE6FF),
-        error = Color(0xFFFFB4AB),
+        onPrimaryContainer = Color(0xFF111129),// Unread badge
+        inversePrimary = Color(0xFF006D2F),// Unread badge text
+        secondary = Color(0xFFA177FF),// Navigation bar selector pill
+        onSecondary = Color(0xFF111129),// Navigation bar selected icon
+        secondaryContainer = Color(0xFFA177FF),// Downloaded badge
+        onSecondaryContainer = Color(0xFF111129),// Downloaded badge text
+        tertiary = Color(0xFF5E25E1),
+        onTertiary = Color(0xFFE8E8E8),
+        tertiaryContainer = Color(0xFF111129),
+        onTertiaryContainer = Color(0xFFDEE8FF),
         onError = Color(0xFF690005),
         errorContainer = Color(0xFF93000A),
         onErrorContainer = Color(0xFFFFDAD6),
